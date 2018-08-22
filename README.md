@@ -6,10 +6,11 @@
 
 
 ## ***目录***
- [TOC]
+-   [PAT甲级题解](#-PAT甲级题解)
+-   [PAT乙级题解](#-PAT乙级题解)
 
 ------
-## **PAT甲级题解**
+## PAT甲级题解
 
 | ID        |  题目      |   C/C++   |
 | :------:    | :------: |   :-----: |
@@ -43,7 +44,7 @@
 | A1083     |  	List Grades     |   [查看题解](https://github.com/Ecloss/PATCode/blob/master/PAT-Advanced/A1083.cpp)   |
 
 
-## **PAT乙级题解**
+## PAT乙级题解
 
 | ID        |  题目      |   C/C++   |
 | :------:    | :------: |   :-----: |

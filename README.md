@@ -6,8 +6,8 @@
 
 
 ## ***目录***
--   [PAT甲级题解](#-PAT甲级题解)
--   [PAT乙级题解](#-PAT乙级题解)
+-   [PAT甲级题解](https://github.com/Ecloss/PATCode/blob/master/README.md#pat甲级题解)
+-   [PAT乙级题解](https://github.com/Ecloss/PATCode/blob/master/README.md#pat乙级题解)
 
 ------
 ## PAT甲级题解

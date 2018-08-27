@@ -40,6 +40,7 @@
 | A1050     |  String Subtraction     |   [查看题解](https://github.com/Ecloss/PATCode/blob/master/PAT-Advanced/A1050.cpp)   |
 | A1055     |  The World's Richest     |   [查看题解](https://github.com/Ecloss/PATCode/blob/master/PAT-Advanced/A1055.cpp)   |
 | A1058     |  A+B in Hogwarts     |   [查看题解](https://github.com/Ecloss/PATCode/blob/master/PAT-Advanced/A1058(3).cpp)   |
+| A1059     |  Prime Factors     |   [查看题解](https://github.com/Ecloss/PATCode/blob/master/PAT-Advanced/A1059.cpp)   |
 | A1065     |  A+B and C (64bit)     |   [查看题解](https://github.com/Ecloss/PATCode/blob/master/PAT-Advanced/A1065.cpp)   |
 | A1069     |  The Black Hole of Numbers     |   [查看题解](https://github.com/Ecloss/PATCode/blob/master/PAT-Advanced/A1069.cpp)   |
 | A1070     |  Mooncake     |   [查看题解](https://github.com/Ecloss/PATCode/blob/master/PAT-Advanced/A1070.cpp)   |
@@ -49,6 +50,7 @@
 | A1082     |  	Read Number in Chinese     |   [查看题解](https://github.com/Ecloss/PATCode/blob/master/PAT-Advanced/A1082(2).cpp)   |
 | A1083     |  	List Grades     |   [查看题解](https://github.com/Ecloss/PATCode/blob/master/PAT-Advanced/A1083.cpp)   |
 | A1088     |  	Rational Arithmetic     |   [查看题解](https://github.com/Ecloss/PATCode/blob/master/PAT-Advanced/A1088.cpp)   |
+| A1096     |  	Consecutive Factors     |   [查看题解](https://github.com/Ecloss/PATCode/blob/master/PAT-Advanced/A1096.cpp)   |
 | A1104     |  	Sum of Number Segments     |   [查看题解](https://github.com/Ecloss/PATCode/blob/master/PAT-Advanced/A1104.cpp)   |
 
 

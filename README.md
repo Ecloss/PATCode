@@ -22,6 +22,7 @@
 | A1009     |  Product of Polynomials      |   [查看题解](https://github.com/Ecloss/PATCode/blob/master/PAT-Advanced/A1009.cpp)   |
 | A1011     |  World Cup Betting      |   [查看题解](https://github.com/Ecloss/PATCode/blob/master/PAT-Advanced/A1011.cpp)   |
 | A1012     |  The Best Rank      |   [查看题解](https://github.com/Ecloss/PATCode/blob/master/PAT-Advanced/A1012.cpp)   |
+| A1015     |  	Reversible Primes      |   [查看题解](https://github.com/Ecloss/PATCode/blob/master/PAT-Advanced/A1015.cpp)   |
 | A1016     |  Phone Bills      |   [查看题解](https://github.com/Ecloss/PATCode/blob/master/PAT-Advanced/A1016(2).cpp)   |
 | A1019     |  General Palindromic Number      |   [查看题解](https://github.com/Ecloss/PATCode/blob/master/PAT-Advanced/A1019.cpp)   |
 | A1025     |  PAT Ranking      |   [查看题解](https://github.com/Ecloss/PATCode/blob/master/PAT-Advanced/A1025(2).cpp)   |
@@ -43,6 +44,7 @@
 | A1069     |  The Black Hole of Numbers     |   [查看题解](https://github.com/Ecloss/PATCode/blob/master/PAT-Advanced/A1069.cpp)   |
 | A1070     |  Mooncake     |   [查看题解](https://github.com/Ecloss/PATCode/blob/master/PAT-Advanced/A1070.cpp)   |
 | A1075     |  PAT Judge     |   [查看题解](https://github.com/Ecloss/PATCode/blob/master/PAT-Advanced/A1075(2).cpp)   |
+| A1078     |  Hashing     |   [查看题解](https://github.com/Ecloss/PATCode/blob/master/PAT-Advanced/A1078.cpp)   |
 | A1081     |  Rational Sum     |   [查看题解](https://github.com/Ecloss/PATCode/blob/master/PAT-Advanced/A1081.cpp)   |
 | A1082     |  	Read Number in Chinese     |   [查看题解](https://github.com/Ecloss/PATCode/blob/master/PAT-Advanced/A1082(2).cpp)   |
 | A1083     |  	List Grades     |   [查看题解](https://github.com/Ecloss/PATCode/blob/master/PAT-Advanced/A1083.cpp)   |
@@ -60,9 +62,11 @@
 | B1004     |  成绩排名      |   [查看题解](https://github.com/Ecloss/PATCode/blob/master/PAT-Basic/B1004.cpp)   |
 | B1005     |  	继续(3n+1)猜想      |   [查看题解](https://github.com/Ecloss/PATCode/blob/master/PAT-Basic/B1005.cpp)   |
 | B1006     |  换个格式输出整数      |   [查看题解](https://github.com/Ecloss/PATCode/blob/master/PAT-Basic/B1006.cpp)   |
+| B1007     |  素数对猜想      |   [查看题解](https://github.com/Ecloss/PATCode/blob/master/PAT-Basic/B1007.cpp)   |
 | B1009     |  说反话      |   [查看题解](https://github.com/Ecloss/PATCode/blob/master/PAT-Basic/B1009.cpp)   |
 | B1010     |  	一元多项式求导      |   [查看题解](https://github.com/Ecloss/PATCode/blob/master/PAT-Basic/B1010.cpp)   |
 | B1011     |  	A+B和C      |   [查看题解](https://github.com/Ecloss/PATCode/blob/master/PAT-Basic/B1011.cpp)   |
+| B1013     |  	数素数      |   [查看题解](https://github.com/Ecloss/PATCode/blob/master/PAT-Basic/B1013.cpp)   |
 | B1014     |  	福尔摩斯的约会      |   [查看题解](https://github.com/Ecloss/PATCode/blob/master/PAT-Basic/B1014.cpp)   |
 | B1016     |  部分A+B      |   [查看题解](https://github.com/Ecloss/PATCode/blob/master/PAT-Basic/B1016.cpp)   |
 | B1019     |  	数字黑洞      |   [查看题解](https://github.com/Ecloss/PATCode/blob/master/PAT-Basic/B1019.cpp)   |

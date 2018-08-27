@@ -43,8 +43,10 @@
 | A1069     |  The Black Hole of Numbers     |   [查看题解](https://github.com/Ecloss/PATCode/blob/master/PAT-Advanced/A1069.cpp)   |
 | A1070     |  Mooncake     |   [查看题解](https://github.com/Ecloss/PATCode/blob/master/PAT-Advanced/A1070.cpp)   |
 | A1075     |  PAT Judge     |   [查看题解](https://github.com/Ecloss/PATCode/blob/master/PAT-Advanced/A1075(2).cpp)   |
+| A1081     |  Rational Sum     |   [查看题解](https://github.com/Ecloss/PATCode/blob/master/PAT-Advanced/A1081.cpp)   |
 | A1082     |  	Read Number in Chinese     |   [查看题解](https://github.com/Ecloss/PATCode/blob/master/PAT-Advanced/A1082(2).cpp)   |
 | A1083     |  	List Grades     |   [查看题解](https://github.com/Ecloss/PATCode/blob/master/PAT-Advanced/A1083.cpp)   |
+| A1088     |  	Rational Arithmetic     |   [查看题解](https://github.com/Ecloss/PATCode/blob/master/PAT-Advanced/A1088.cpp)   |
 | A1104     |  	Sum of Number Segments     |   [查看题解](https://github.com/Ecloss/PATCode/blob/master/PAT-Advanced/A1104.cpp)   |
 
 
@@ -73,6 +75,7 @@
 | B1028     |  	人口普查      |   [查看题解](https://github.com/Ecloss/PATCode/blob/master/PAT-Basic/B1028（人口普查）.cpp)   |
 | B1031     | 	查验身份证      |   [查看题解](https://github.com/Ecloss/PATCode/blob/master/PAT-Basic/B1031(3).cpp)   |
 | B1032     | 挖掘机技术哪家强      |   [查看题解](https://github.com/Ecloss/PATCode/blob/master/PAT-Basic/B1032.cpp)   |
+| B1034     | 有理数四则运算      |   [查看题解](https://github.com/Ecloss/PATCode/blob/master/PAT-Basic/B1034.cpp)   |
 | B1036     |  跟奥巴马一起编程      |   [查看题解](https://github.com/Ecloss/PATCode/blob/master/PAT-Basic/B1036(精简方法).cpp)   |
 | B1037     |  在霍格沃茨找零钱      |   [查看题解](https://github.com/Ecloss/PATCode/blob/master/PAT-Basic/B1037(它人方法).cpp)   |
 | B1038     |  	统计同成绩学生      |   [查看题解](https://github.com/Ecloss/PATCode/blob/master/PAT-Basic/B1038.cpp)   |

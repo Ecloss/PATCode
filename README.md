@@ -25,6 +25,8 @@
 | A1015     |  	Reversible Primes      |   [查看题解](https://github.com/Ecloss/PATCode/blob/master/PAT-Advanced/A1015.cpp)   |
 | A1016     |  Phone Bills      |   [查看题解](https://github.com/Ecloss/PATCode/blob/master/PAT-Advanced/A1016(2).cpp)   |
 | A1019     |  General Palindromic Number      |   [查看题解](https://github.com/Ecloss/PATCode/blob/master/PAT-Advanced/A1019.cpp)   |
+| A1023     |  Have Fun with Numbers      |   [查看题解](https://github.com/Ecloss/PATCode/blob/master/PAT-Advanced/A1023.cpp)   |
+| A1024     |  Palindromic Number       |   [查看题解](https://github.com/Ecloss/PATCode/blob/master/PAT-Advanced/A1024.cpp)   |
 | A1025     |  PAT Ranking      |   [查看题解](https://github.com/Ecloss/PATCode/blob/master/PAT-Advanced/A1025(2).cpp)   |
 | A1027     |  Colors in Mars      |   [查看题解](https://github.com/Ecloss/PATCode/blob/master/PAT-Advanced/A1027(2).cpp)|
 | A1028     |  List Sorting      |   [查看题解](https://github.com/Ecloss/PATCode/blob/master/PAT-Advanced/A1028(2).cpp)   |
@@ -71,6 +73,7 @@
 | B1013     |  	数素数      |   [查看题解](https://github.com/Ecloss/PATCode/blob/master/PAT-Basic/B1013.cpp)   |
 | B1014     |  	福尔摩斯的约会      |   [查看题解](https://github.com/Ecloss/PATCode/blob/master/PAT-Basic/B1014.cpp)   |
 | B1016     |  部分A+B      |   [查看题解](https://github.com/Ecloss/PATCode/blob/master/PAT-Basic/B1016.cpp)   |
+| B1017     |  A除以B      |   [查看题解](https://github.com/Ecloss/PATCode/blob/master/PAT-Basic/B1017.cpp)   |
 | B1019     |  	数字黑洞      |   [查看题解](https://github.com/Ecloss/PATCode/blob/master/PAT-Basic/B1019.cpp)   |
 | B1020     |  	月饼     |   [查看题解](https://github.com/Ecloss/PATCode/blob/master/PAT-Basic/B1020.cpp)   |
 | B1021     |  	个位数统计      |   [查看题解](https://github.com/Ecloss/PATCode/blob/master/PAT-Basic/B1021.cpp)   |

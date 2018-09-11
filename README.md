@@ -100,11 +100,11 @@
 | B1039     |  	到底买不买     |   [查看题解](https://github.com/Ecloss/PATCode/blob/master/PAT-Basic/B1039.cpp)   |[查看题解](https://blog.csdn.net/Ecloss/article/details/82625277) |
 | B1041     |  	考试座位号      |   [查看题解](https://github.com/Ecloss/PATCode/blob/master/PAT-Basic/B1041.cpp)   |[查看题解](https://blog.csdn.net/Ecloss/article/details/82625305) |
 | B1042     |  	字符统计      |   [查看题解](https://github.com/Ecloss/PATCode/blob/master/PAT-Basic/B1042.cpp)   |[查看题解](https://blog.csdn.net/Ecloss/article/details/82625318) |
-| B1043     |  	输出PATest      |   [查看题解](https://github.com/Ecloss/PATCode/blob/master/PAT-Basic/B1043.cpp)   |
-| B1046     |  划拳      |   [查看题解](https://github.com/Ecloss/PATCode/blob/master/PAT-Basic/B1046.cpp)   |
-| B1047     |  		编程团体赛      |   [查看题解](https://github.com/Ecloss/PATCode/blob/master/PAT-Basic/B1047.cpp)   |
-| B1048     |  	数字加密      |   [查看题解](https://github.com/Ecloss/PATCode/blob/master/PAT-Basic/B1048(他人方法).cpp)   |
-| B1049     |  	数字片段和      |   [查看题解](https://github.com/Ecloss/PATCode/blob/master/PAT-Basic/B1049.cpp)   |
-| B1088     |  	三人行      |   [查看题解](https://github.com/Ecloss/PATCode/blob/master/PAT-Basic/B1088.cpp)  [查看题解2](https://github.com/Ecloss/PATCode/blob/master/PAT-Basic/B1088(3).cpp)   |
+| B1043     |  	输出PATest      |   [查看题解](https://github.com/Ecloss/PATCode/blob/master/PAT-Basic/B1043.cpp)   |[查看题解](https://blog.csdn.net/Ecloss/article/details/82625329) |
+| B1046     |  划拳      |   [查看题解](https://github.com/Ecloss/PATCode/blob/master/PAT-Basic/B1046.cpp)   |[查看题解](https://blog.csdn.net/Ecloss/article/details/82655342) |
+| B1047     |  		编程团体赛      |   [查看题解](https://github.com/Ecloss/PATCode/blob/master/PAT-Basic/B1047.cpp)   |[查看题解](https://blog.csdn.net/Ecloss/article/details/82655345) |
+| B1048     |  	数字加密      |   [查看题解](https://github.com/Ecloss/PATCode/blob/master/PAT-Basic/B1048(他人方法).cpp)   |[查看题解](https://blog.csdn.net/Ecloss/article/details/82655347) |
+| B1049     |  	数字片段和      |   [查看题解](https://github.com/Ecloss/PATCode/blob/master/PAT-Basic/B1049.cpp)   |[查看题解](https://blog.csdn.net/Ecloss/article/details/82655348) |
+| B1088     |  	三人行      |   [查看题解](https://github.com/Ecloss/PATCode/blob/master/PAT-Basic/B1088.cpp)  [查看题解2](https://github.com/Ecloss/PATCode/blob/master/PAT-Basic/B1088(3).cpp)   |[查看题解](https://blog.csdn.net/Ecloss/article/details/82629632) |
 
 

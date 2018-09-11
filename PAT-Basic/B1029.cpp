@@ -1,39 +1,31 @@
 #include<cstdio>
 #include<cstring>
+#include<algorithm>
+using namespace std;
 
-bool isFlag[124] = {false};
-
-int hashFunc(char a) {
-	int id = 0;
-	if(a >= '0' && a <= '9') id = a - '0';
-	if(a == '_') id = 10;
-	if(a >= 'A' && a <= 'Z') id = a - 'A' + 11;
-	if(a >= 'a' && a <= 'z') id = a - 'a' + 37;
-	return id;
-}
-
+bool hash[128] = {0};
 int main() {
-	char should[100], test[100], x;
-	int num;
-	gets(should);
-	gets(test);
-//	scanf("%s", should);
-//	scanf("%s", test);
-	int len = strlen(test);
-	int len1 = strlen(should);
-	for(int i = 0; i < len; i++) {
-		x = test[i];
-		num = hashFunc(x);
-		isFlag[num] = true;
-	}
+	char str1[100], str2[100];
+	scanf("%s", str1);
+	scanf("%s", str2);
+	int len1 = strlen(str1);
+	int len2 = strlen(str2);
 	for(int i = 0; i < len1; i++) {
-		x = should[i];
-		num = hashFunc(x);
-		if(isFlag[num] == false) {
-			if(should[i] >= 'a' && should[i] <= 'z') printf("%c", should[i]-32);
-			else printf("%c", should[i]);
-			isFlag[num] = true;
+		int j;
+		char c1, c2;
+		for(j = 0; j < len2; j++) {
+			c1 = str1[i];
+			c2 = str2[j];
+			if(c1 >= 'a' && c1 <= 'z') c1 = c1 - 32;
+			if(c2 >= 'a' && c2 <= 'z') c2 = c2 - 32;
+			if(c1 == c2) break;
+		}
+		if(j == len2 && hash[c1] == false) {
+			printf("%c", c1);
+			hash[c1] = true;
 		}
 	}
+	
 	return 0;
-} 
+}
+

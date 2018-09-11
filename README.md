@@ -105,5 +105,6 @@
 | B1047     |  		编程团体赛      |   [查看题解](https://github.com/Ecloss/PATCode/blob/master/PAT-Basic/B1047.cpp)   |
 | B1048     |  	数字加密      |   [查看题解](https://github.com/Ecloss/PATCode/blob/master/PAT-Basic/B1048(他人方法).cpp)   |
 | B1049     |  	数字片段和      |   [查看题解](https://github.com/Ecloss/PATCode/blob/master/PAT-Basic/B1049.cpp)   |
+| B1088     |  	三人行      |   [查看题解](https://github.com/Ecloss/PATCode/blob/master/PAT-Basic/B1088.cpp)   |
 
 

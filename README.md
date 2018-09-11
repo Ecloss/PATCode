@@ -107,4 +107,4 @@
 | B1049     |  	数字片段和      |   [查看题解](https://github.com/Ecloss/PATCode/blob/master/PAT-Basic/B1049.cpp)   |[查看题解](https://blog.csdn.net/Ecloss/article/details/82655348) |
 | B1088     |  	三人行      |   [查看题解](https://github.com/Ecloss/PATCode/blob/master/PAT-Basic/B1088.cpp)  [查看题解2](https://github.com/Ecloss/PATCode/blob/master/PAT-Basic/B1088(3).cpp)   |[查看题解](https://blog.csdn.net/Ecloss/article/details/82629632) |
 
-
+  

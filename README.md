@@ -33,7 +33,8 @@
 | A1036     |  	Boys vs Girls      |   [查看题解](https://github.com/Ecloss/PATCode/blob/master/C%2B%2B/PAT-Advanced/A1036(2).cpp)   |[查看题解](https://blog.csdn.net/Ecloss/article/details/82110708) |
 | A1038     |  Recover the Smallest Number     |   [查看题解](https://github.com/Ecloss/PATCode/blob/master/C%2B%2B/PAT-Advanced/A1038.cpp)   |[查看题解](https://blog.csdn.net/Ecloss/article/details/82110755) |
 | A1039     |  Course List for Student     |   [查看题解](https://github.com/Ecloss/PATCode/blob/master/C%2B%2B/PAT-Advanced/A1039.cpp)   |[查看题解](https://blog.csdn.net/Ecloss/article/details/82110764) |
-| A1041     |  Be Unique     |   [查看题解](https://github.com/Ecloss/PATCode/blob/master/C%2B%2B/PAT-Advanced/A1041.cpp)   |[查看题解](https://blog.csdn.net/Ecloss/article/details/82110771) |
+| A1041     |  Be Unique     |   [查看题解](https://github.com/Ecloss/PATCode/blob/master/C%2B%2B/PAT-Advanced/A1041.cpp)   |[查看题解](https://blog.csdn.net/Ecloss/article/details/82778585) |
+| A1042     |  Be Unique     |   [查看题解](https://github.com/Ecloss/PATCode/blob/master/C%2B%2B/PAT-Advanced/A1042.cpp)   |[查看题解](https://blog.csdn.net/Ecloss/article/details/82110771) |
 | A1044     |  Shopping in Mars     |   [查看题解](https://github.com/Ecloss/PATCode/blob/master/C%2B%2B/PAT-Advanced/A1044.cpp)   |[查看题解](https://blog.csdn.net/Ecloss/article/details/82110775) |
 | A1046     |  	Shortest Distance     |   [查看题解](https://github.com/Ecloss/PATCode/blob/master/C%2B%2B/PAT-Advanced/A1046(2).cpp)   |[查看题解](https://blog.csdn.net/Ecloss/article/details/82183535) |
 | A1047     |  	Student List for Course     |   [查看题解](https://github.com/Ecloss/PATCode/blob/master/C%2B%2B/PAT-Advanced/A1047.cpp)   |[查看题解](https://blog.csdn.net/Ecloss/article/details/82183548) |
@@ -80,7 +81,7 @@
 | B1015     |  	德才论      |   [查看题解](https://github.com/Ecloss/PATCode/blob/master/C%2B%2B/PAT-Basic/B1015.cpp)   |[查看题解](https://blog.csdn.net/Ecloss/article/details/81865779) |
 | B1016     |  部分A+B      |   [查看题解](https://github.com/Ecloss/PATCode/blob/master/C%2B%2B/PAT-Basic/B1016.cpp)   |[查看题解](https://blog.csdn.net/Ecloss/article/details/81902638) |[查看题解](https://github.com/Ecloss/PATCode/blob/master/Java/PAT-Basic/B1016.java)|
 | B1017     |  A除以B      |   [查看题解](https://github.com/Ecloss/PATCode/blob/master/C%2B%2B/PAT-Basic/B1017.cpp)   |[查看题解](https://blog.csdn.net/Ecloss/article/details/81902672) |
-| B1018     |  锤子剪刀布      |   [查看题解](https://github.com/Ecloss/PATCode/blob/master/C%2B%2B/PAT-Basic/B1018.cpp)   |[查看题解](https://blog.csdn.net/Ecloss/article/details/81902740) |
+| B1018     |  锤子剪刀布      |   [查看题解](https://github.com/Ecloss/PATCode/blob/master/C%2B%2B/PAT-Basic/B1018.cpp)   |[查看题解](https://blog.csdn.net/Ecloss/article/details/81902740) |[查看题解](https://github.com/Ecloss/PATCode/blob/master/Java/PAT-Basic/B1018.java)|
 | B1019     |  	数字黑洞      |   [查看题解](https://github.com/Ecloss/PATCode/blob/master/C%2B%2B/PAT-Basic/B1019.cpp)   |[查看题解](https://blog.csdn.net/Ecloss/article/details/81902768) |
 | B1020     |  	月饼     |   [查看题解](https://github.com/Ecloss/PATCode/blob/master/C%2B%2B/PAT-Basic/B1020.cpp)   |[查看题解](https://blog.csdn.net/Ecloss/article/details/81902788) |
 | B1021     |  	个位数统计      |   [查看题解](https://github.com/Ecloss/PATCode/blob/master/C%2B%2B/PAT-Basic/B1021.cpp)   |[查看题解](https://blog.csdn.net/Ecloss/article/details/81902817) |
@@ -99,7 +100,7 @@
 | B1038     |  	统计同成绩学生      |   [查看题解](https://github.com/Ecloss/PATCode/blob/master/C%2B%2B/PAT-Basic/B1038.cpp)   |[查看题解](https://blog.csdn.net/Ecloss/article/details/82625260) |
 | B1039     |  	到底买不买     |   [查看题解](https://github.com/Ecloss/PATCode/blob/master/C%2B%2B/PAT-Basic/B1039.cpp)   |[查看题解](https://blog.csdn.net/Ecloss/article/details/82625277) |
 | B1041     |  	考试座位号      |   [查看题解](https://github.com/Ecloss/PATCode/blob/master/C%2B%2B/PAT-Basic/B1041.cpp)   |[查看题解](https://blog.csdn.net/Ecloss/article/details/82625305) |
-| B1042     |  	字符统计      |   [查看题解](https://github.com/Ecloss/PATCode/blob/master/C%2B%2B/PAT-Basic/B1042.cpp)   |[查看题解](https://blog.csdn.net/Ecloss/article/details/82625318) |
+| B1042     |  	字符统计      |   [查看题解](https://github.com/Ecloss/PATCode/blob/master/C%2B%2B/PAT-Basic/B1042.cpp)   |[查看题解](https://blog.csdn.net/Ecloss/article/details/82625318) |[查看题解](https://github.com/Ecloss/PATCode/blob/master/Java/PAT-Basic/B1042.java)|
 | B1043     |  	输出PATest      |   [查看题解](https://github.com/Ecloss/PATCode/blob/master/C%2B%2B/PAT-Basic/B1043.cpp)   |[查看题解](https://blog.csdn.net/Ecloss/article/details/82625329) |
 | B1046     |  划拳      |   [查看题解](https://github.com/Ecloss/PATCode/blob/master/C%2B%2B/PAT-Basic/B1046.cpp)   |[查看题解](https://blog.csdn.net/Ecloss/article/details/82655342) |[查看题解](https://github.com/Ecloss/PATCode/blob/master/Java/PAT-Basic/B1046.java)|
 | B1047     |  		编程团体赛      |   [查看题解](https://github.com/Ecloss/PATCode/blob/master/C%2B%2B/PAT-Basic/B1047.cpp)   |[查看题解](https://blog.csdn.net/Ecloss/article/details/82655345) |

@@ -12,8 +12,8 @@
 ------
 ## PAT甲级题解
 
-| ID        |  题目      |   C/C++   | 博客 |
-| :------:    | :------: |   :-----: | :----:|
+| ID        |  题目      |   C/C++   | 博客 | Java |
+| :------:    | :------: |   :-----: | :----:| :----:|
 | A1001     |  A+B Format      |   [查看题解](https://github.com/Ecloss/PATCode/blob/master/C%2B%2B/PAT-Advanced/A1001.cpp)   |[查看题解](https://blog.csdn.net/Ecloss/article/details/81776228) |
 | A1002     |  A+B for Polynomials      |   [查看题解](https://github.com/Ecloss/PATCode/blob/master/C%2B%2B/PAT-Advanced/A1002.cpp)  |[查看题解](https://blog.csdn.net/Ecloss/article/details/81776256) |
 | A1005     |  Spell It Right      |   [查看题解](https://github.com/Ecloss/PATCode/blob/master/C%2B%2B/PAT-Advanced/A1005.cpp)   |[查看题解](https://blog.csdn.net/Ecloss/article/details/81776271) |
@@ -34,7 +34,7 @@
 | A1038     |  Recover the Smallest Number     |   [查看题解](https://github.com/Ecloss/PATCode/blob/master/C%2B%2B/PAT-Advanced/A1038.cpp)   |[查看题解](https://blog.csdn.net/Ecloss/article/details/82110755) |
 | A1039     |  Course List for Student     |   [查看题解](https://github.com/Ecloss/PATCode/blob/master/C%2B%2B/PAT-Advanced/A1039.cpp)   |[查看题解](https://blog.csdn.net/Ecloss/article/details/82110764) |
 | A1041     |  Be Unique     |   [查看题解](https://github.com/Ecloss/PATCode/blob/master/C%2B%2B/PAT-Advanced/A1041.cpp)   |[查看题解](https://blog.csdn.net/Ecloss/article/details/82778585) |
-| A1042     |  Be Unique     |   [查看题解](https://github.com/Ecloss/PATCode/blob/master/C%2B%2B/PAT-Advanced/A1042.cpp)   |[查看题解](https://blog.csdn.net/Ecloss/article/details/82110771) |
+| A1042     |  Be Unique     |   [查看题解](https://github.com/Ecloss/PATCode/blob/master/C%2B%2B/PAT-Advanced/A1042.cpp)   |[查看题解](https://blog.csdn.net/Ecloss/article/details/82110771) |[查看题解](https://github.com/Ecloss/PATCode/blob/master/Java/PAT-Advance/A1042.java) |
 | A1044     |  Shopping in Mars     |   [查看题解](https://github.com/Ecloss/PATCode/blob/master/C%2B%2B/PAT-Advanced/A1044.cpp)   |[查看题解](https://blog.csdn.net/Ecloss/article/details/82110775) |
 | A1046     |  	Shortest Distance     |   [查看题解](https://github.com/Ecloss/PATCode/blob/master/C%2B%2B/PAT-Advanced/A1046(2).cpp)   |[查看题解](https://blog.csdn.net/Ecloss/article/details/82183535) |
 | A1047     |  	Student List for Course     |   [查看题解](https://github.com/Ecloss/PATCode/blob/master/C%2B%2B/PAT-Advanced/A1047.cpp)   |[查看题解](https://blog.csdn.net/Ecloss/article/details/82183548) |

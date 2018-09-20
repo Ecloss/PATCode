@@ -36,7 +36,7 @@
 | A1041     |  Be Unique     |   [查看题解](https://github.com/Ecloss/PATCode/blob/master/C%2B%2B/PAT-Advanced/A1041.cpp)   |[查看题解](https://blog.csdn.net/Ecloss/article/details/82778585) |
 | A1042     |  Be Unique     |   [查看题解](https://github.com/Ecloss/PATCode/blob/master/C%2B%2B/PAT-Advanced/A1042.cpp)   |[查看题解](https://blog.csdn.net/Ecloss/article/details/82110771) |[查看题解](https://github.com/Ecloss/PATCode/blob/master/Java/PAT-Advance/A1042.java) |
 | A1044     |  Shopping in Mars     |   [查看题解](https://github.com/Ecloss/PATCode/blob/master/C%2B%2B/PAT-Advanced/A1044.cpp)   |[查看题解](https://blog.csdn.net/Ecloss/article/details/82110775) |
-| A1046     |  	Shortest Distance     |   [查看题解](https://github.com/Ecloss/PATCode/blob/master/C%2B%2B/PAT-Advanced/A1046(2).cpp)   |[查看题解](https://blog.csdn.net/Ecloss/article/details/82183535) |
+| A1046     |  	Shortest Distance     |   [查看题解](https://github.com/Ecloss/PATCode/blob/master/C%2B%2B/PAT-Advanced/A1046(2).cpp)   |[查看题解](https://blog.csdn.net/Ecloss/article/details/82183535) |[查看题解](https://github.com/Ecloss/PATCode/blob/master/Java/PAT-Advance/A1046.java) |
 | A1047     |  	Student List for Course     |   [查看题解](https://github.com/Ecloss/PATCode/blob/master/C%2B%2B/PAT-Advanced/A1047.cpp)   |[查看题解](https://blog.csdn.net/Ecloss/article/details/82183548) |
 | A1048     |  Find Coins     |   [查看题解](https://github.com/Ecloss/PATCode/blob/master/C%2B%2B/PAT-Advanced/A1048(2).cpp)   |[查看题解](https://blog.csdn.net/Ecloss/article/details/82664446) |
 | A1049     |  Counting Ones      |   [查看题解](https://github.com/Ecloss/PATCode/blob/master/C%2B%2B/PAT-Advanced/A1049.cpp)   |[查看题解](https://blog.csdn.net/Ecloss/article/details/82664470) |
@@ -45,7 +45,7 @@
 | A1058     |  A+B in Hogwarts     |   [查看题解](https://github.com/Ecloss/PATCode/blob/master/C%2B%2B/PAT-Advanced/A1058(3).cpp)   |[查看题解](https://blog.csdn.net/Ecloss/article/details/82664537) |
 | A1059     |  Prime Factors     |   [查看题解](https://github.com/Ecloss/PATCode/blob/master/C%2B%2B/PAT-Advanced/A1059.cpp)   |[查看题解](https://blog.csdn.net/Ecloss/article/details/82664554) |
 | A1061     |  Prime Factors     |   [查看题解](https://github.com/Ecloss/PATCode/blob/master/C%2B%2B/PAT-Advanced/A1061.cpp)   |[查看题解](https://blog.csdn.net/Ecloss/article/details/82664575) |
-| A1065     |  A+B and C (64bit)     |   [查看题解](https://github.com/Ecloss/PATCode/blob/master/C%2B%2B/PAT-Advanced/A1065.cpp)   |[查看题解](https://blog.csdn.net/Ecloss/article/details/82664603) |
+| A1065     |  A+B and C (64bit)     |   [查看题解](https://github.com/Ecloss/PATCode/blob/master/C%2B%2B/PAT-Advanced/A1065.cpp)   |[查看题解](https://blog.csdn.net/Ecloss/article/details/82664603) |[查看题解](https://github.com/Ecloss/PATCode/blob/master/Java/PAT-Advance/A1065.java) |
 | A1069     |  The Black Hole of Numbers     |   [查看题解](https://github.com/Ecloss/PATCode/blob/master/C%2B%2B/PAT-Advanced/A1069.cpp)   |[查看题解](https://blog.csdn.net/Ecloss/article/details/82664622) |
 | A1070     |  Mooncake     |   [查看题解](https://github.com/Ecloss/PATCode/blob/master/C%2B%2B/PAT-Advanced/A1070.cpp)   |[查看题解](https://blog.csdn.net/Ecloss/article/details/82664633) |
 | A1075     |  PAT Judge     |   [查看题解](https://github.com/Ecloss/PATCode/blob/master/C%2B%2B/PAT-Advanced/A1075(2).cpp)   |[查看题解](https://blog.csdn.net/Ecloss/article/details/82664654) |
@@ -65,7 +65,7 @@
 | ID        |  题目      |   C/C++    |  博客 | Java| 
 | :------:    | :------: |   :-----: | :----:| :----:|
 | B1001     |  	害死人不偿命的(3n+1)猜想      |   [查看题解](https://github.com/Ecloss/PATCode/blob/master/C%2B%2B/PAT-Basic/B1001.cpp)   | [查看题解](https://blog.csdn.net/Ecloss/article/details/81713497) |[查看题解](https://github.com/Ecloss/PATCode/blob/master/Java/PAT-Basic/B1001.java)|
-| B1002     |  	写出这个数      |   [查看题解](https://github.com/Ecloss/PATCode/blob/master/C%2B%2B/PAT-Basic/B1002.cpp)   |[查看题解](https://blog.csdn.net/Ecloss/article/details/81713584) |
+| B1002     |  	写出这个数      |   [查看题解](https://github.com/Ecloss/PATCode/blob/master/C%2B%2B/PAT-Basic/B1002.cpp)   |[查看题解](https://blog.csdn.net/Ecloss/article/details/81713584) |[查看题解](https://github.com/Ecloss/PATCode/blob/master/Java/PAT-Basic/B1002.java)|
 | B1003     |  	我要通过！      |   [查看题解](https://github.com/Ecloss/PATCode/blob/master/C%2B%2B/PAT-Basic/B1003.cpp)   |[查看题解](https://blog.csdn.net/Ecloss/article/details/81713608) |
 | B1004     |  成绩排名      |   [查看题解](https://github.com/Ecloss/PATCode/blob/master/C%2B%2B/PAT-Basic/B1004.cpp)   |[查看题解](https://blog.csdn.net/Ecloss/article/details/81713628) |
 | B1005     |  	继续(3n+1)猜想      |   [查看题解](https://github.com/Ecloss/PATCode/blob/master/C%2B%2B/PAT-Basic/B1005.cpp)   |[查看题解](https://blog.csdn.net/Ecloss/article/details/81713642) |
@@ -73,7 +73,7 @@
 | B1007     |  素数对猜想      |   [查看题解](https://github.com/Ecloss/PATCode/blob/master/C%2B%2B/PAT-Basic/B1007.cpp)   |[查看题解](https://blog.csdn.net/Ecloss/article/details/81713671) |
 | B1008     |  数组元素循环右移问题      |   [查看题解](https://github.com/Ecloss/PATCode/blob/master/C%2B%2B/PAT-Basic/B1008.cpp)   |[查看题解](https://blog.csdn.net/Ecloss/article/details/81713698) |[查看题解](https://github.com/Ecloss/PATCode/blob/master/Java/PAT-Basic/B1008.java)|
 | B1009     |  说反话      |   [查看题解](https://github.com/Ecloss/PATCode/blob/master/C%2B%2B/PAT-Basic/B1009.cpp)   |[查看题解](https://blog.csdn.net/Ecloss/article/details/81713703) |
-| B1010     |  	一元多项式求导      |   [查看题解](https://github.com/Ecloss/PATCode/blob/master/C%2B%2B/PAT-Basic/B1010.cpp)   |[查看题解](https://blog.csdn.net/Ecloss/article/details/81713737) |
+| B1010     |  	一元多项式求导      |   [查看题解](https://github.com/Ecloss/PATCode/blob/master/C%2B%2B/PAT-Basic/B1010.cpp)   |[查看题解](https://blog.csdn.net/Ecloss/article/details/81713737) |[查看题解](https://github.com/Ecloss/PATCode/blob/master/Java/PAT-Basic/B1010.java)|
 | B1011     |  	A+B和C      |   [查看题解](https://github.com/Ecloss/PATCode/blob/master/C%2B%2B/PAT-Basic/B1011.cpp)   |[查看题解](https://blog.csdn.net/Ecloss/article/details/81776187) |[查看题解](https://github.com/Ecloss/PATCode/blob/master/Java/PAT-Basic/B1011.java)|
 | B1012     |  	数字分类      |   [查看题解](https://github.com/Ecloss/PATCode/blob/master/C%2B%2B/PAT-Basic/B1012.cpp)   |[查看题解](https://blog.csdn.net/Ecloss/article/details/81776200) |[查看题解](https://github.com/Ecloss/PATCode/blob/master/Java/PAT-Basic/B1012.java)|
 | B1013     |  	数素数      |   [查看题解](https://github.com/Ecloss/PATCode/blob/master/C%2B%2B/PAT-Basic/B1013.cpp)   |[查看题解](https://blog.csdn.net/Ecloss/article/details/81776213) |

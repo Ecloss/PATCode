@@ -67,7 +67,7 @@
 | B1001     |  	害死人不偿命的(3n+1)猜想      |   [查看题解](https://github.com/Ecloss/PATCode/blob/master/C%2B%2B/PAT-Basic/B1001.cpp)   | [查看题解](https://blog.csdn.net/Ecloss/article/details/81713497) |[查看题解](https://github.com/Ecloss/PATCode/blob/master/Java/PAT-Basic/B1001.java)|
 | B1002     |  	写出这个数      |   [查看题解](https://github.com/Ecloss/PATCode/blob/master/C%2B%2B/PAT-Basic/B1002.cpp)   |[查看题解](https://blog.csdn.net/Ecloss/article/details/81713584) |[查看题解](https://github.com/Ecloss/PATCode/blob/master/Java/PAT-Basic/B1002.java)|
 | B1003     |  	我要通过！      |   [查看题解](https://github.com/Ecloss/PATCode/blob/master/C%2B%2B/PAT-Basic/B1003.cpp)   |[查看题解](https://blog.csdn.net/Ecloss/article/details/81713608) |
-| B1004     |  成绩排名      |   [查看题解](https://github.com/Ecloss/PATCode/blob/master/C%2B%2B/PAT-Basic/B1004.cpp)   |[查看题解](https://blog.csdn.net/Ecloss/article/details/81713628) |
+| B1004     |  成绩排名      |   [查看题解](https://github.com/Ecloss/PATCode/blob/master/C%2B%2B/PAT-Basic/B1004.cpp)   |[查看题解](https://blog.csdn.net/Ecloss/article/details/81713628) |[查看题解](https://github.com/Ecloss/PATCode/blob/master/Java/PAT-Basic/B1004.java)|
 | B1005     |  	继续(3n+1)猜想      |   [查看题解](https://github.com/Ecloss/PATCode/blob/master/C%2B%2B/PAT-Basic/B1005.cpp)   |[查看题解](https://blog.csdn.net/Ecloss/article/details/81713642) |
 | B1006     |  换个格式输出整数      |   [查看题解](https://github.com/Ecloss/PATCode/blob/master/C%2B%2B/PAT-Basic/B1006.cpp)   |[查看题解](https://blog.csdn.net/Ecloss/article/details/81713648) |
 | B1007     |  素数对猜想      |   [查看题解](https://github.com/Ecloss/PATCode/blob/master/C%2B%2B/PAT-Basic/B1007.cpp)   |[查看题解](https://blog.csdn.net/Ecloss/article/details/81713671) |
@@ -99,7 +99,7 @@
 | B1037     |  在霍格沃茨找零钱      |   [查看题解](https://github.com/Ecloss/PATCode/blob/master/C%2B%2B/PAT-Basic/B1037(它人方法).cpp)   |[查看题解](https://blog.csdn.net/Ecloss/article/details/82625244) |
 | B1038     |  	统计同成绩学生      |   [查看题解](https://github.com/Ecloss/PATCode/blob/master/C%2B%2B/PAT-Basic/B1038.cpp)   |[查看题解](https://blog.csdn.net/Ecloss/article/details/82625260) |
 | B1039     |  	到底买不买     |   [查看题解](https://github.com/Ecloss/PATCode/blob/master/C%2B%2B/PAT-Basic/B1039.cpp)   |[查看题解](https://blog.csdn.net/Ecloss/article/details/82625277) |
-| B1041     |  	考试座位号      |   [查看题解](https://github.com/Ecloss/PATCode/blob/master/C%2B%2B/PAT-Basic/B1041.cpp)   |[查看题解](https://blog.csdn.net/Ecloss/article/details/82625305) |
+| B1041     |  	考试座位号      |   [查看题解](https://github.com/Ecloss/PATCode/blob/master/C%2B%2B/PAT-Basic/B1041.cpp)   |[查看题解](https://blog.csdn.net/Ecloss/article/details/82625305) |[查看题解](https://github.com/Ecloss/PATCode/blob/master/Java/PAT-Basic/B1041.java)|
 | B1042     |  	字符统计      |   [查看题解](https://github.com/Ecloss/PATCode/blob/master/C%2B%2B/PAT-Basic/B1042.cpp)   |[查看题解](https://blog.csdn.net/Ecloss/article/details/82625318) |[查看题解](https://github.com/Ecloss/PATCode/blob/master/Java/PAT-Basic/B1042.java)|
 | B1043     |  	输出PATest      |   [查看题解](https://github.com/Ecloss/PATCode/blob/master/C%2B%2B/PAT-Basic/B1043.cpp)   |[查看题解](https://blog.csdn.net/Ecloss/article/details/82625329) |
 | B1046     |  划拳      |   [查看题解](https://github.com/Ecloss/PATCode/blob/master/C%2B%2B/PAT-Basic/B1046.cpp)   |[查看题解](https://blog.csdn.net/Ecloss/article/details/82655342) |[查看题解](https://github.com/Ecloss/PATCode/blob/master/Java/PAT-Basic/B1046.java)|
